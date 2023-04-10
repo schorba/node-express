@@ -1,4 +1,4 @@
-# Courses App
+# Courses App1
 ## This is playground web app (aka *internet shop*) made with NodeJS + Express which you can try here - https://murmuring-bastion-44116.herokuapp.com
 * Please note, that registration/reset password emails _might_ come to Spam folder. 
 
